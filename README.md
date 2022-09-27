@@ -63,3 +63,5 @@ Strong emphasis,aka bold,with **asterisks** or **underscores** .
  |Still    |   renders  |  nicely|
  |    1   |    2   |     3|
  
+ ![iu](123.jpg"IU")
+ 
