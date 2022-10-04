@@ -1,2 +1,2 @@
 
-![gantt](123.png "gantt")
+![gantt](gantt.png "gantt")
